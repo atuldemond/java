@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Operator{
-    public static void main (Strings args[]){
+    public static void main (String args[]){
         //Arithmetic Operators
         /***
          * 1. BINARY OPERATOS
